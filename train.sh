@@ -1,0 +1,1 @@
+NPROC_PER_NODE=1 xtuner train qwen_sft.py --deepspeed deepspeed_zero1
